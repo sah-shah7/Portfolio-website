@@ -131,12 +131,12 @@ hr {
 } */
 
 /* header */
-
-.blog-img {
+/* To add Image
+/* .blog-img {
     max-width: 70%;
     display: block;
     margin: auto;
-}
+} */
 
 .hero {
     padding: 2rem;
